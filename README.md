@@ -22,7 +22,7 @@ A web-based Augmented Reality content management system supporting 3D models, vi
 - Dynamic JSON-driven frontend rendering
 - Encrypted file retrieval system
 
-  Repository](https://github.com/Vijay-Ravichandran/AR-Project-Demo-App)  
+  Repository Link - https://github.com/Vijay-Ravichandran/AR-app
 
 📸 Demo Screenshot  
 AR Demo - (https://github.com/Vijay-Ravichandran/AR-Project-Demo-App/blob/main/demo.png)
