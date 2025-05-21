@@ -40,4 +40,4 @@ Vijayaragavan's GitHub Stats - https://github-readme-stats.vercel.app/api?userna
 Top Languages - https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-Ravichandran&layout=compact
 
 🤝 Let's Connect  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/) or explore my projects here on GitHub!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/vijayaragavanr2) or explore my projects here on GitHub!
