@@ -1,6 +1,6 @@
 👋 Hi, I'm Vijayaragavan R.
 
-![GitHub Snake](https://your-github-username.github.io/your-repo-name/github-contribution-grid-snake.svg)
+![GitHub Snake](https://your-github-username.github.io-rep/Vijay-Ravichandran/github-contribution-grid-snake.svg)
 
 🚀 About Me  
 Transitioning from a successful background in project management into the IT world. Passionate about backend development, web technologies, and building real-world applications through continuous learning and hands-on experience.
