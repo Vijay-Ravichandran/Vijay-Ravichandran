@@ -1,9 +1,16 @@
-👋 Hi, I'm Vijayaragavan R.
+<h1 align="center">🚀Hi, I'm Vijayaragavan R - Full Stack Developer </h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="rocket gif"/>
+</p>
 
 ![GitHub Snake](https://raw.githubusercontent.com/Vijay-Ravichandran/Vijay-Ravichandran/output/github-contribution-grid-snake.svg)
 
-🚀 About Me  
-Transitioning from a successful background in project management into the IT world. Passionate about backend development, web technologies, and building real-world applications through continuous learning and hands-on experience.
+### 🧠 About Me  
+🎯 Transitioning from a successful background in **Project Management** into the world of **Software Development**  
+💡 An Associate Project Management and Certified Scrum Master, I'm now channeling my skills into AR/VR development, building both robust backend systems and dynamic frontends. My drive is to create compelling, scalable immersive applications, applying continuous learning and hands-on experience to deliver real-world impact
+
+---
 
 #### ✨ My Immersive Creations
 
@@ -22,20 +29,6 @@ This VR experience explores [concept]. Users can [interact with objects, explore
 
 _Technologies: Unreal Engine, C++, OpenXR, Substance Painter_
 
----
-
-
-💻 What I’m Currently Working On  
-- Backend development using PHP and MySQL  
-- Building an Augmented Reality Content Management System  
-- Creating dynamic dashboards and user interfaces using React  
-- Improving secure login systems and responsive layouts  
-
-📚 What I’m Learning  
-- PHP PDO and MySQL database integration  
-- RESTful API development and integration  
-- React components and responsive UI design  
-- Authentication and session management best practices  
 
 📱 AR Project Demo App  
 A web-based Augmented Reality content management system supporting 3D models, videos, and image markers. Built using PHP, JSON, Bootstrap, and AR.js for browser-based AR viewing.
