@@ -1,13 +1,12 @@
 <h1 align="center">🚀Hi, I'm Vijayaragavan R - Full Stack Developer </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="rocket gif"/>
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJobW4wZXZsbHZydXRydm1mMm84dmgyMGs2aWtxZzRjcTZ3ZHE5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="100" alt="Software Developer" title="Software Development"/> <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100" alt="AR VR Tech" title="AR/VR Enthusiast"/> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100" alt="Innovation" title="Innovation"/> <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="100" alt="Web Development" title="Web Technologies"/> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" alt="Unity 3D Game Dev" title="Unity / Meta / 3D"/> </p>
 
 ![GitHub Snake](https://raw.githubusercontent.com/Vijay-Ravichandran/Vijay-Ravichandran/output/github-contribution-grid-snake.svg)
 
 ### 🧠 About Me  
 🎯 Transitioning from a successful background in **Project Management** into the world of **Software Development**  
+
 💡 An Associate Project Management and Certified Scrum Master, I'm now channeling my skills into AR/VR development, building both robust backend systems and dynamic frontends. My drive is to create compelling, scalable immersive applications, applying continuous learning and hands-on experience to deliver real-world impact
 
 ---
