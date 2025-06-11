@@ -22,8 +22,7 @@
 ![GitHub Snake](https://raw.githubusercontent.com/Vijay-Ravichandran/Vijay-Ravichandran/output/github-contribution-grid-snake.svg)
 
 ### 🧠 About Me  
-🎯 From this ➜ 🧠 To this  
-📋 Project Management ➜ 👨‍💻 Software Development  
+From 📋 Project Management ➜ 👨‍💻 Software Development 
 
 💼 Former Associate Project Co-Ordinator | Certified Scrum Master |
 🚀 Now creating immersive **AR/VR apps** with full-stack development  
