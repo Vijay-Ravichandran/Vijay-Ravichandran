@@ -26,8 +26,8 @@ From 📋 Project Management ➜ 👨‍💻 Software Development
 
 💼 Former Associate Project Co-Ordinator | Certified Scrum Master |
 🚀 Now creating immersive **AR/VR apps** with full-stack development  
-🔧 Backend logic + 🎨 Frontend interactivity = Real-world impact
 
+🔧 Backend logic + 🎨 Frontend interactivity = Real-world impact
  
 
 💡 An Associate Project Management and Certified Scrum Master, I'm now channeling my skills into AR/VR development, building both robust backend systems and dynamic frontends. My drive is to create compelling, scalable immersive applications, applying continuous learning and hands-on experience to deliver real-world impact
