@@ -1,5 +1,5 @@
 <h1 align="center">🚀Hi, I'm Vijayaragavan R - Full Stack Developer </h1>
-<h2 align="left"> Worked on </h2>
+<h2 align="center"> Worked on </h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js"/>
