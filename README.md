@@ -36,20 +36,13 @@ From 📋 Project Management ➜ 👨‍💻 Software Development
 
 #### ✨ My Immersive Creations
 
-##### 🌌 Project Title 1 - [Link to Repo](https://github.com/Vijay-Ravichandran/Project1)
+##### 🌌 Project Title 1 - [[Link to Repo](https://github.com/Vijay-Ravichandran/Project1)](https://github.com/Vijay-Ravichandran/AR-app)
 A brief description of your project. This [AR/VR] application allows users to [explain core functionality]. I focused on [e.g., optimizing performance for mobile devices, creating realistic physics interactions].
 
 ![Project 1 Demo GIF](https://raw.githubusercontent.com/Vijay-Ravichandran/Project1/main/assets/project1_demo.gif)
 _Technologies: Unity, AR Foundation, C#, Blender_
 
 ---
-
-##### 🚀 Project Title 2 - [Link to Repo](https://github.com/Vijay-Ravichandran/Project2)
-This VR experience explores [concept]. Users can [interact with objects, explore environment]. A key challenge was [explain challenge, e.g., implementing custom locomotion, networking multiplayer VR].
-
-![Project 2 Demo GIF](https://raw.githubusercontent.com/Vijay-Ravichandran/Project2/main/assets/project2_demo.gif)
-
-_Technologies: Unreal Engine, C++, OpenXR, Substance Painter_
 
 
 📱 AR Project Demo App  
