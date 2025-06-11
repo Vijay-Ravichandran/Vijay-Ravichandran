@@ -49,12 +49,12 @@ Upload and manage 3D assets securely
 - Dynamic JSON-driven frontend rendering
 - Encrypted file retrieval system
 
-_Tools & Technologies: Unity, AR Foundation, C#, Blender, javascript, PHP, Visual Studio, XAMPP, MySQL-PDO_
-
----
+_**Tools & Technologies**: Unity, AR Foundation, C#, Blender, javascript, PHP, Visual Studio, XAMPP, MySQL-PDO_
 
 📸 Demo Screenshot  
-AR Demo - (https://github.com/Vijay-Ravichandran/AR-Project-Demo-App/blob/main/demo.png)
+AR APP Demo - (https://github.com/Vijay-Ravichandran/AR-Project-Demo-App/blob/main/demo.png)
+
+---
 
 📂 Featured Repositories  
 - AR CMS  
