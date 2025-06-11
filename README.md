@@ -40,23 +40,18 @@ From 📋 Project Management ➜ 👨‍💻 Software Development
 
 #### ✨ My Immersive Creations
 
-##### 🌌 Project Title 1 - [[Link to Repo](https://github.com/Vijay-Ravichandran/Project1)](https://github.com/Vijay-Ravichandran/AR-app)
-A brief description of your project. This [AR/VR] application allows users to [explain core functionality]. I focused on [e.g., optimizing performance for mobile devices, creating realistic physics interactions].
+##### 🌌 AR Content View Demo App (News magazine) - [[Link to Repo](https://github.com/Vijay-Ravichandran/Project1)](https://github.com/Vijay-Ravichandran/AR-app)
+A web-based Augmented Reality content management system supporting 3D models, videos, and image markers. Built using PHP, JSON, Bootstrap, and AR.js for browser-based AR viewing. This AR application allows users to watch video short clippings & to view 3D interactive objects. 
 
-![Project 1 Demo GIF](https://raw.githubusercontent.com/Vijay-Ravichandran/Project1/main/assets/project1_demo.gif)
-_Technologies: Unity, AR Foundation, C#, Blender_
+I focused on creating a backend base for the application to run, integration of PHP & unity (json formatting) & Organized a team to give the better output.
 
----
-
-
-📱 AR Project Demo App  
-A web-based Augmented Reality content management system supporting 3D models, videos, and image markers. Built using PHP, JSON, Bootstrap, and AR.js for browser-based AR viewing.
-
-- Upload and manage 3D assets securely
+Upload and manage 3D assets securely
 - Dynamic JSON-driven frontend rendering
 - Encrypted file retrieval system
 
-  Repository Link - https://github.com/Vijay-Ravichandran/AR-app
+_Tools & Technologies: Unity, AR Foundation, C#, Blender, javascript, PHP, Visual Studio, XAMPP, MySQL-PDO_
+
+---
 
 📸 Demo Screenshot  
 AR Demo - (https://github.com/Vijay-Ravichandran/AR-Project-Demo-App/blob/main/demo.png)
