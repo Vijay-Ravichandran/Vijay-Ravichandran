@@ -25,7 +25,7 @@
 🎯 From this ➜ 🧠 To this  
 📋 Project Management ➜ 👨‍💻 Software Development  
 
-💼 Former Associate Project Co-Ordinator | Certified Scrum Master
+💼 Former Associate Project Co-Ordinator | Certified Scrum Master |
 🚀 Now creating immersive **AR/VR apps** with full-stack development  
 🔧 Backend logic + 🎨 Frontend interactivity = Real-world impact
 
