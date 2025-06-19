@@ -32,7 +32,6 @@
   <li>💻 Now building robust backends & dynamic frontends.</li>
   <li>📈 Focused on delivering real-world impact through immersive web applications.</li>
 </ul>
----
 
 #### ✨ My Immersive Creations
 
