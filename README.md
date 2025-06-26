@@ -46,7 +46,7 @@ Upload and manage 3D assets securely
 
 _**Tools & Technologies**: Unity, AR Foundation, C#, Blender, javascript, PHP, Visual Studio, XAMPP, MySQL-PDO_
  
-AR APP Doc's - https://drive.google.com/file/d/1s9WS_6zVNQLg5yVUZODf-MYc74iwEurY/view?usp=sharing
+AR APP Doc's - https://drive.google.com/file/d/1o2-VGQ7_vph906LwH7dZAxMYQ2JOmGG0/view
 
 ---
 
