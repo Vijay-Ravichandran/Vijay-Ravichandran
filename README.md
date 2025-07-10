@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td align="center" colspan="2">
-      <strong>🛠️ Worked on ➜</strong><br><br>
+      <strong>🛠️ Worked on </strong><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>       
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/>
