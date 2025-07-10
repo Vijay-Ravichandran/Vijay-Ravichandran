@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td align="right"><strong>🛠️ Worked on ➜</strong></td>
+    <td align="center"><strong>🛠️ Worked on ➜</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>       
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/>
