@@ -1,9 +1,9 @@
 <h1 align="center">🚀Hi, I'm Vijayaragavan R - Full Stack Developer </h1>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center"><strong>🛠️ Worked on ➜</strong></td>
-    <td>
+    <td align="center" colspan="2">
+      <strong>🛠️ Worked on ➜</strong><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>       
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/>
@@ -16,6 +16,7 @@
     </td>
   </tr>
 </table>
+
 
 ![GitHub Snake](https://raw.githubusercontent.com/Vijay-Ravichandran/Vijay-Ravichandran/output/github-contribution-grid-snake.svg)
 
