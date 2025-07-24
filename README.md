@@ -31,18 +31,18 @@
 #### ✨ My Immersive Creations
 
 ##### 🌌 AR Content View Demo App (News magazine) - [[Link to Repo](https://github.com/Vijay-Ravichandran/AR-app)]
-A web-based Augmented Reality content management system supporting 3D models, videos, and image markers. Built using PHP, JSON, Bootstrap, and AR.js for browser-based AR viewing. This AR application allows users to watch video short clippings & to view 3D interactive objects. 
+A web-based Augmented Reality content management system supporting 3D models, videos, and image markers. Built using PHP, JSON, Bootstrap, and AR.js for browser-based AR viewing. This AR application allows users to watch video short clips and view 3D interactive objects. 
 
-I focused on creating a backend base for the application to run, integration of PHP & unity (json formatting) & Organized a team to give the better output.
+I focused on creating a backend base for the application to run, integration of PHP & Unity (JSON formatting) & organised a team to give a better output.
 
 Upload and manage 3D assets securely
 - Dynamic JSON-driven frontend rendering
 - Encrypted file retrieval system
 
-_**Tools & Technologies**: Unity, AR Foundation, C#, Blender, javascript, PHP, Visual Studio, XAMPP, MySQL-PDO_
+_**Tools & Technologies**: Unity, AR Foundation, C#, Blender, JavaScript, PHP, Visual Studio, XAMPP, MySQL-PDO_
  
-AR APP Doc's - https://drive.google.com/file/d/1o2-VGQ7_vph906LwH7dZAxMYQ2JOmGG0/view
-video Link - https://drive.google.com/file/d/1XinW0DE9ClxDcfPaGjX92_8gEko7O90D/view?usp=sharing
+AR APP Docs - https://drive.google.com/file/d/1o2-VGQ7_vph906LwH7dZAxMYQ2JOmGG0/view
+Video Link - https://drive.google.com/file/d/1XinW0DE9ClxDcfPaGjX92_8gEko7O90D/view?usp=sharing
 
 ---
 
