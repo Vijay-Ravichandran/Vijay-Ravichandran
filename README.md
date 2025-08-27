@@ -59,40 +59,6 @@
 
 ![GitHub Snake](https://raw.githubusercontent.com/Vijay-Ravichandran/Vijay-Ravichandran/output/github-contribution-grid-snake.svg)
 
-### 🧠 About Me  
- <ul>
-  <li>🚀 Transitioned from <strong>Project Management</strong> to <strong>Software Development</strong>.</li>
-  <li>📌 Former Associate Project Co-Ordinator | 🧠 Certified Scrum Master</li>
-  <li>💻 Now building robust backends & dynamic frontends.</li>
-  <li>📈 Focused on delivering real-world impact through immersive web applications.</li>
-</ul>
-
-#### ✨ My Immersive Creations
-
-##### 🌌 AR Content View Demo App (News magazine) - [[Link to Repo](https://github.com/Vijay-Ravichandran/AR-app)]
-A web-based Augmented Reality content management system supporting 3D models, videos, and image markers. Built using PHP, JSON, Bootstrap, and AR.js for browser-based AR viewing. This AR application allows users to watch video short clips and view 3D interactive objects. 
-
-I focused on creating a backend base for the application to run, integration of PHP & Unity (JSON formatting) & organised a team to give a better output.
-
-Upload and manage 3D assets securely
-- Dynamic JSON-driven frontend rendering
-- Encrypted file retrieval system
-
-_**Tools & Technologies**: Unity, AR Foundation, C#, Blender, JavaScript, PHP, Visual Studio, XAMPP, MySQL-PDO_
- 
-AR APP Docs - https://drive.google.com/file/d/1o2-VGQ7_vph906LwH7dZAxMYQ2JOmGG0/view
-Video Link - https://drive.google.com/file/d/1XinW0DE9ClxDcfPaGjX92_8gEko7O90D/view?usp=sharing
-
----
-
-📂 Featured Repositories  
-- AR CMS  
-  A web-based AR content management system using PHP and JSON with file uploads, encrypted ID-based retrieval, and dynamic dashboards  
-- Employee Management System  
-  A secure CRUD-based system for managing employee data with PHP and Bootstrap  
-- React Dashboard  
-  Interactive dashboard UI with responsive card layouts, sidebar navigation, and routing  
-
 📊 GitHub Stats  
 Vijayaragavan's GitHub Stats - https://github-readme-stats.vercel.app/api?username=Vijay-Ravichandran&show_icons=true&theme=default
 Top Languages - https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-Ravichandran&layout=compact
