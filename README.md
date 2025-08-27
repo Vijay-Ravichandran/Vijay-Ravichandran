@@ -3,16 +3,45 @@
 <table align="center">
   <tr>
     <td align="center" colspan="2">
-      <strong>🛠️ Worked on </strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>       
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio"/>    
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+      <strong>🛠️ Skills & Expertise</strong><br><br>
+
+<!-- Programming Languages -->
+<b>Programming Languages:</b><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/> Beginner
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
+<br><br>
+
+<!-- Software Verification & Validation -->
+<b>S/W V&V:</b><br>
+🧪 Test Case Design | ⚙️ Execution | 📊 Coverage Logging
+<br><br>
+
+<!-- Problem Solving & Quality Standards -->
+<b>Problem Solving & Quality Standards:</b><br>
+📌 8D | 🧭 RASIC <br>
+📑 Standards: ASPICE (Co-Assessor), ISO 9001, IATF 16949
+<br><br>
+
+<!-- Manufacturing Knowledge -->
+<b>Manufacturing Knowledge:</b><br>
+🏭 Supplier Quality Audits | ⚡ Lean Manufacturing | 🎯 Six Sigma Awareness
+<br><br>
+
+<!-- Emerging Technologies -->
+<b>Emerging Technologies:</b><br>
+🚘 ADAS | 🤖 Autonomous Driving | 🔌 Software-Defined Vehicle (SDV) | ⚡ EV Systems
+<br><br>
+
+<!-- Collaboration & Methodologies -->
+<b>Collaboration & Methodologies:</b><br>
+🚀 Agile & Scrum | 👥 Stakeholder Management | 🔄 Cross-functional Collaboration | 📋 Jira
+<br>
+
     </td>
   </tr>
 </table>
