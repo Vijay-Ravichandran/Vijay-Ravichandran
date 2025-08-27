@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td align="center" colspan="2">
-    ## 🛠️ Skills & Expertise  
+    🛠️ Skills & Expertise  
 
 ### 💻 Programming Languages  
 <p align="center">
