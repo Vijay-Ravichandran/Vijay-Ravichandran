@@ -1,4 +1,4 @@
-<h1 align="center">🚀Hi, I'm Vijayaragavan R - Full Stack Developer </h1>
+<h1 align="center">🚀Hi, I'm Vijayaragavan R - Automotive Software Tester | V&V | ASPICE & Functional Safety </h1>
 
 <table align="center">
   <tr>
