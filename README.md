@@ -3,47 +3,57 @@
 <table align="center">
   <tr>
     <td align="center" colspan="2">
-      <strong>🛠️ Skills & Expertise</strong><br><br>
+    ## 🛠️ Skills & Expertise  
 
-<!-- Programming Languages -->
-<b>Programming Languages:</b><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/> Beginner
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
-<br><br>
+### 💻 Programming Languages  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/> Beginner
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
+</p>
 
-<!-- Software Verification & Validation -->
-<b>S/W V&V:</b><br>
-🧪 Test Case Design | ⚙️ Execution | 📊 Coverage Logging
-<br><br>
+---
 
-<!-- Problem Solving & Quality Standards -->
-<b>Problem Solving & Quality Standards:</b><br>
-📌 8D | 🧭 RASIC <br>
-📑 Standards: ASPICE (Co-Assessor), ISO 9001, IATF 16949
-<br><br>
+### 🧪 S/W V&V  
+<p align="center">
+  🧩 Test Case Design &nbsp; | &nbsp; ⚙️ Execution &nbsp; | &nbsp; 📊 Coverage Logging
+</p>
 
-<!-- Manufacturing Knowledge -->
-<b>Manufacturing Knowledge:</b><br>
-🏭 Supplier Quality Audits | ⚡ Lean Manufacturing | 🎯 Six Sigma Awareness
-<br><br>
+---
 
-<!-- Emerging Technologies -->
-<b>Emerging Technologies:</b><br>
-🚘 ADAS | 🤖 Autonomous Driving | 🔌 Software-Defined Vehicle (SDV) | ⚡ EV Systems
-<br><br>
+### 🏆 Problem Solving & Quality Standards  
+<p align="center">
+  📌 8D &nbsp; | &nbsp; 🧭 RASIC  
+</p>
+<p align="center">
+  📑 Standards: ASPICE (Co-Assessor), ISO 9001, IATF 16949
+</p>
 
-<!-- Collaboration & Methodologies -->
-<b>Collaboration & Methodologies:</b><br>
-🚀 Agile & Scrum | 👥 Stakeholder Management | 🔄 Cross-functional Collaboration | 📋 Jira
-<br>
+---
 
-    </td>
-  </tr>
+### 🏭 Manufacturing Knowledge  
+<p align="center">
+  🏢 Supplier Quality Audits &nbsp; | &nbsp; ⚡ Lean Manufacturing &nbsp; | &nbsp; 🎯 Six Sigma Awareness
+</p>
+
+---
+
+### 🚘 Emerging Technologies  
+<p align="center">
+  🚗 ADAS &nbsp; | &nbsp; 🤖 Autonomous Driving &nbsp; | &nbsp; 🔌 Software-Defined Vehicle (SDV) &nbsp; | &nbsp; ⚡ EV Systems
+</p>
+
+---
+
+### 🤝 Collaboration & Methodologies  
+<p align="center">
+  🚀 Agile & Scrum &nbsp; | &nbsp; 👥 Stakeholder Management &nbsp; | &nbsp; 🔄 Cross-functional Collaboration &nbsp; | &nbsp; 📋 Jira
+</p>
+
 </table>
 
 
