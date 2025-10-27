@@ -1,4 +1,4 @@
-<h1 align="center">🚀Hi, I'm Vijayaragavan R - Automotive Software Tester | V&V | ASPICE & Functional Safety </h1>
+<h1 align="center">🚀Hi, I'm Vijayaragavan R - Automotive Software Engineer | ADAS | SDV | Python | ASPICE </h1>
 
 <table align="center">
   <tr>
