@@ -1,4 +1,4 @@
-<h1 align="center">🚀Hi, I'm Vijayaragavan R - Automotive Software Engineer | ADAS | SDV | Python | ASPICE </h1>
+<h1 align="center">🚀Hi, I'm Vijayaragavan R - AI/ML Engineer | Python </h1>
 
 <table align="center">
   <tr>
