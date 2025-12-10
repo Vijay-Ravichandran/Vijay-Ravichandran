@@ -1,4 +1,4 @@
-<h1 align="center">🚀Hi, I'm Vijayaragavan R - AI/ML Engineer | Python </h1>
+<h1 align="center">🚀Hi, I'm Vijayaragavan R </h1>
 
 <table align="center">
   <tr>
